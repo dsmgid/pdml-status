@@ -1,0 +1,31 @@
+# Change these first
+owner: dsmgid # Your GitHub username
+repo: status # Your Github repository name
+
+# Add your sites here
+sites:
+  - name: Website
+    url: https://pdmuliasari.co.id
+  - name: API
+    url: $API1
+  - name: API V2
+    url: $API2
+    headers:
+    - "Authorization: $TOKEN"
+  - name: POS
+    url: https://pos.pdmuliasari.co.id
+  - name: Order System
+    url: https://order.pdmuliasari.co.id
+
+status-website:
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  cname: status.pdmuliasari.co.id
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
+  logoUrl: https://static.dsgroupmedia.com/logo/logopdmlcompress.jpg
+  name: Status Page
+  introTitle: "PD Muliasari Status Page"
+  introMessage: All the service status will be shown here
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
