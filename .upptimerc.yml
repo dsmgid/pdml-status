@@ -8,6 +8,8 @@ sites:
     url: https://pdmuliasari.co.id
   - name: API
     url: $API1
+    headers:
+    - "Authorization: $TOKEN"
   - name: API V2
     url: $API2
     headers:
