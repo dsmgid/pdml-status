@@ -1,7 +1,7 @@
 url: https://order.pdmuliasari.co.id
-status: up
-code: 200
-responseTime: 2899
-lastUpdated: 2021-07-26T07:10:28.186Z
+status: down
+code: 502
+responseTime: 733
+lastUpdated: 2021-07-26T14:46:49.031Z
 startTime: Mon Dec 28 2020 15:03:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
